@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: -apple-system;
+    /* font-family:'Spartan',sans-serif; */
+    /* background-color: rgb(214, 206, 206); */
+}
+h1{
+    font-size: 70px;
+    line-height: 64px;
+    color:black;
+}
+h2{
+    font-size: 46px;
+    line-height: 54px;
+    color:black;
+}
+h4{
+    font-size: 30px;
+    color:black;
+}
+h6{
+    font-weight: 700;
+    font-size: 12px;
+    font-family:'Spartan',sans-serif;
+}
+p{
+    font-size: 26px;  
+}
+.section-p1{
+    padding: 40px 80px;
+}
+.section-m1{
+    padding: 40px 0px;
+}
